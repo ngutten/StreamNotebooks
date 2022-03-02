@@ -1,2 +1,1 @@
-# StreamNotebooks
-Notebooks from my livestream.
+Notebooks from my stream.
